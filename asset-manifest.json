@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/public/index.html/static/css/main.2032ecf7.css",
-    "main.js": "/my-app/public/index.html/static/js/main.0c3fe7a3.js",
-    "static/media/PIA17563orig.jpg": "/my-app/public/index.html/static/media/PIA17563orig.2346e146e7b1374645de.jpg",
-    "static/media/linkedin-logo1.png": "/my-app/public/index.html/static/media/linkedin-logo1.d8cc72b0fe596ce31005.png",
-    "static/media/github-logo1.png": "/my-app/public/index.html/static/media/github-logo1.06a6b9d65c5a634e3edf.png",
-    "index.html": "/my-app/public/index.html/index.html",
-    "main.2032ecf7.css.map": "/my-app/public/index.html/static/css/main.2032ecf7.css.map",
-    "main.0c3fe7a3.js.map": "/my-app/public/index.html/static/js/main.0c3fe7a3.js.map"
+    "main.css": "/static/css/main.605301fc.css",
+    "main.js": "/static/js/main.b73ad549.js",
+    "static/media/PIA17563orig.jpg": "/static/media/PIA17563orig.2346e146e7b1374645de.jpg",
+    "static/media/linkedin-logo1.png": "/static/media/linkedin-logo1.d8cc72b0fe596ce31005.png",
+    "static/media/github-logo1.png": "/static/media/github-logo1.06a6b9d65c5a634e3edf.png",
+    "index.html": "/index.html",
+    "main.605301fc.css.map": "/static/css/main.605301fc.css.map",
+    "main.b73ad549.js.map": "/static/js/main.b73ad549.js.map"
   },
   "entrypoints": [
-    "static/css/main.2032ecf7.css",
-    "static/js/main.0c3fe7a3.js"
+    "static/css/main.605301fc.css",
+    "static/js/main.b73ad549.js"
   ]
 }
