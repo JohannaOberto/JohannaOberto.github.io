@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.605301fc.css",
-    "main.js": "/static/js/main.b73ad549.js",
-    "static/media/PIA17563orig.jpg": "/static/media/PIA17563orig.2346e146e7b1374645de.jpg",
-    "static/media/linkedin-logo1.png": "/static/media/linkedin-logo1.d8cc72b0fe596ce31005.png",
-    "static/media/github-logo1.png": "/static/media/github-logo1.06a6b9d65c5a634e3edf.png",
-    "index.html": "/index.html",
-    "main.605301fc.css.map": "/static/css/main.605301fc.css.map",
-    "main.b73ad549.js.map": "/static/js/main.b73ad549.js.map"
+    "main.css": "/JohannaOberto.github.io/static/css/main.0c77fdb1.css",
+    "main.js": "/JohannaOberto.github.io/static/js/main.ba5543f3.js",
+    "static/media/PIA17563orig.jpg": "/JohannaOberto.github.io/static/media/PIA17563orig.2346e146e7b1374645de.jpg",
+    "static/media/linkedin-logo1.png": "/JohannaOberto.github.io/static/media/linkedin-logo1.d8cc72b0fe596ce31005.png",
+    "static/media/github-logo1.png": "/JohannaOberto.github.io/static/media/github-logo1.06a6b9d65c5a634e3edf.png",
+    "index.html": "/JohannaOberto.github.io/index.html",
+    "main.0c77fdb1.css.map": "/JohannaOberto.github.io/static/css/main.0c77fdb1.css.map",
+    "main.ba5543f3.js.map": "/JohannaOberto.github.io/static/js/main.ba5543f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.605301fc.css",
-    "static/js/main.b73ad549.js"
+    "static/css/main.0c77fdb1.css",
+    "static/js/main.ba5543f3.js"
   ]
 }
