@@ -1,0 +1,17 @@
+.welcome-text-container {
+  color: white;
+  font-size: 2em;
+  margin-left: 5px;
+}
+
+.highlight-text {
+  color: aqua;
+}
+
+#welcome {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
