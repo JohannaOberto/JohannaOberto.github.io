@@ -7,11 +7,11 @@ function ContactApp(props) {
     <div>
       <h1>Get in touch:</h1>
       <div className='icons'>
-        <a href="https://www.linkedin.com/in/johanna-oberto-0874499b/">
-          <img className='linkedin-logo' src={linkedinlogo} width="20%" height="20%" />
+        <a href="https://www.linkedin.com/in/johanna-oberto/">
+          <img className='linkedin-logo' src={linkedinlogo} />
         </a>
         <a href="https://github.com/JohannaOberto">
-          <img className='github-logo' src={githublogo} width="20%" height="20%"/>
+          <img className='github-logo' src={githublogo} />
         </a>
       </div>
     </div>
